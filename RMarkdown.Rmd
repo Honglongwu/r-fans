@@ -16,6 +16,17 @@ The Manual of ggplot2
 # 5. facet
 # 6. theme
 
+- WEE 教育大发现社区 wiki 页面
+
+- WEE 豆瓣小站
+
+- WEE 新浪微博 @joinwee
+
+- WEE Google Plus
+
+- WEE BagTheWeb
+
+- WEE Flickr
 
 This is an R **ggplot2** step by step  manual. more examples are from <<[*R graphics cookbook*](http://www.amazon.com/R-Graphics-Cookbook-Winston-Chang/dp/1449316956)>> ![](http://ecx.images-amazon.com/images/I/51pbSD4qd-L._AA278_PIkin4,BottomRight,-33,22_AA300_SH20_OU15_.jpg)
 
@@ -32,4 +43,4 @@ You can also embed plots, for example:
 ```{r fig.width=7, fig.height=6}
 plot(cars)
 ```
-
+> *From xiaokai<<**30分钟学会ggplot2**>>太极剑法与ggplot2: 招无定式,潜力无穷,容易忘记,易于学习*
